@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Функция Аккермана https://site.ada.edu.az/~medv/acm/Docs%20e-olimp/Volume%2012/1111.htm
+ * Через рекурсию есть смысл решать по типу Фебоначчи, давать в return n + f(n-1)
  */
 public class Task68 {
     public static void main(String[] args) {
